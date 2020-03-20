@@ -12,6 +12,9 @@
     "url": "https://github.com/jishi/node-sonos-http-api.git"
   },
   "dependencies": {
+    "@google-cloud/text-to-speech": "^2.3.0",
+    "dotenv": "~4.0.0",
+    "lodash": "~4.17.10",
     "anesidora": "^1.2.0",
     "aws-sdk": "^2.12.0",
     "basic-auth": "~1.1.0",
